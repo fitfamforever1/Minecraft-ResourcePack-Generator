@@ -27,7 +27,7 @@ assets/minecraft/
 3. Create an `item/` folder inside `textures/`
 4. Place all `.png` texture files inside `item/` — subfolders are supported
 5. Rename the `.png` files to your liking
-6. Run the `.py` file
+6. Run the `.py` file using ```python main.py``` (Requires python3)
 7. Apply the item model in-game (see below)
 
 ---
