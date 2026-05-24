@@ -1,6 +1,6 @@
 # Custom Item Model Setup
 
-Add custom textures to Minecraft items using a Python script and item model.
+Add custom textures to Minecraft items using a Python script and item model. Only 1.21.5 is supported, you need to edit syntax in the `.py` file to let it work for other versions.
 
 ---
 
